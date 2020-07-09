@@ -21,5 +21,8 @@ Here are some ideas to get you started:
 - Experienced working in Kubernetes, Azure and various web technologies.
 - Exploring new and exciting ideas, feel free to reach out and collab
 - Leading and managing exciting projects at [Devlup Labs](https://github.com/devlup-labs)
+- Open for freelancing opportunities
 
-Checkout my [Resume](https://github.com/anshulahuja98/resume)
+Checkout my [Resume](https://github.com/anshulahuja98/resume) 
+
+Follow on: [Linkedin](https://www.linkedin.com/in/anshul-ahuja/) | [Twitter](https://twitter.com/anshulahuja1998) | [Medium](https://medium.com/@anshul.ahu)
