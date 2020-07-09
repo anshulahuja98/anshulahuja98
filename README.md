@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - :briefcase: Experience: Software Engineer Intern 2019 & 2020 at Microsoft Azure
 - :man_student: Education: IIT Jodhpur, India
 - 📫 Reach out to me: anshul.ahu@gmail.com
-- Experienced working in Kubernetes and various web technologies.
-- Currently Exploring new and exciting ideas, feel free to reach out and collab
-- Currently Leading and managing exciting projects at [Devlup Labs](https://github.com/devlup-labs)
+- Experienced working in Kubernetes, Azure and various web technologies.
+- Exploring new and exciting ideas, feel free to reach out and collab
+- Leading and managing exciting projects at [Devlup Labs](https://github.com/devlup-labs)
 
 Checkout my [Resume](https://github.com/anshulahuja98/resume)
