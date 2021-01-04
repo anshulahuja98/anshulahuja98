@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - :briefcase: Experience: Software Engineer Intern 2019 & 2020 at **Microsoft** Azure
 - :man_student: Education: IIT Jodhpur, India
 - 📫 Reach out to me: anshul.ahu@gmail.com
-- :computer: Open for freelancing opportunities: [Upwork](https://www.upwork.com/o/profiles/users/~0159af9fc299f18fd2/) [Past: K8s dashboard custom work]
+- :computer: Open for freelancing opportunities: [Upwork](https://www.upwork.com/o/profiles/users/~0159af9fc299f18fd2/) 
 
 
 Checkout my :file_folder: [Resume](https://github.com/anshulahuja98/resume) 
