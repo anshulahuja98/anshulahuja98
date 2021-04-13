@@ -28,4 +28,4 @@ Checkout my :file_folder: [Resume](https://github.com/anshulahuja98/resume)
 
 Follow me on: :link: [Linkedin](https://www.linkedin.com/in/anshul-ahuja/) | [Twitter](https://twitter.com/anshulahuja1998) | [Medium](https://medium.com/@anshul.ahu)
 
-Did any of my projects help you out? [Buy me a Coffee](https://www.buymeacoffee.com/anshulahuja) :)
+Did any of my projects help you out? [Buy me a Coffee](https://www.buymeacoffee.com/anshulahuja)  ☕  :)
