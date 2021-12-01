@@ -30,6 +30,8 @@ Follow me on: :link: [Linkedin](https://www.linkedin.com/in/anshul-ahuja/) | [Tw
 
 All links -> [linktr.ee/anshulahuja](https://linktr.ee/anshulahuja)
 
+<!--
 Did any of my projects help you out?
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anshulahuja)
+-->
